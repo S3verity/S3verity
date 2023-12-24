@@ -1,7 +1,6 @@
+### Hi I'm Severity
 
-**S3verity/S3verity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working on a **Discord Token Generator**
 - 🌱 I’m currently learning C++
