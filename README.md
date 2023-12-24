@@ -1,4 +1,4 @@
-### Hi I'm Severity
+### Hi I am Severity 👋
 
 ---
 
